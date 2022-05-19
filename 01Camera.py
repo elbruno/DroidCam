@@ -1,5 +1,6 @@
-# Bruno Capuano 2020
+# Bruno Capuano 2022
 # display the camera feed using OpenCV
+# add some sample changes
 
 import time
 import cv2
