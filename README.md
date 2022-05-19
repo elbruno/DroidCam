@@ -10,3 +10,5 @@ You need Python 3.7 or higher and OpenCV
 ## How to use
 
 ## Additional Resources
+
+## Microsoft Learn Resources
