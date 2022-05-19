@@ -6,3 +6,9 @@ The camera feed is defined by a url (need to be completed later)
 ## Prerequisites
 
 You need Python 3.7 or higher and OpenCV
+
+## How to use
+
+## Additional Resources
+
+## Microsoft Learn Resources
